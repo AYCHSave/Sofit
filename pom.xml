@@ -11,7 +11,7 @@
     <name>Social Finance</name>
     <inceptionYear>2011</inceptionYear>
     <properties>
-        <scala.version>2.10.5</scala.version>
+        <scala.version>2.13.1</scala.version>
         <scala.baseversion>2.10</scala.baseversion>
         <lift.version>2.6.2</lift.version>
         <lift.baseversion>2.6</lift.baseversion>
